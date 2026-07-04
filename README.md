@@ -11,4 +11,4 @@ GitHub Actions pipeline: test → build → push to registry → deploy
 Deployed live to Azure Container Apps, with health checks and logging
 
 
-Status: Day 1 — scaffolding. Updated as each piece ships.
+
